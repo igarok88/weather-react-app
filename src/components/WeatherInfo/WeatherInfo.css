@@ -1,0 +1,16 @@
+.weather__container {
+  margin: 20px 0;
+  width: 300px;
+  background-color: #ccc;
+}
+.weather__row {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px 0;
+}
+.weather__city {
+  font-size: 36px;
+}
+.weather__temp {
+  font-size: 36px;
+}
